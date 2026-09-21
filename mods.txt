@@ -1,1 +1,137 @@
-e
+[
+  {
+    "id": "cloth-config",
+    "name": "cloth-config-14.0.139-fabric.jar",
+    "title": "Cloth Config",
+    "required": true,
+    "enabled": true,
+    "size": 1157222,
+    "sha256": ""
+  },
+  {
+    "id": "fabric-api",
+    "name": "fabric-api-0.100.8+1.20.6.jar",
+    "title": "Fabric API",
+    "required": true,
+    "enabled": true,
+    "size": 2249380,
+    "sha256": ""
+  },
+  {
+    "id": "entityculling",
+    "name": "entityculling-fabric-1.10.2-mc1.20.6.jar",
+    "title": "Entity Culling",
+    "required": false,
+    "enabled": true,
+    "size": 1593051,
+    "sha256": ""
+  },
+  {
+    "id": "immediatelyfast",
+    "name": "ImmediatelyFast-Fabric-1.3.0+1.20.6.jar",
+    "title": "ImmediatelyFast",
+    "required": false,
+    "enabled": true,
+    "size": 247953,
+    "sha256": ""
+  },
+  {
+    "id": "indium",
+    "name": "indium-1.0.36+mc1.20.1.jar",
+    "title": "Indium",
+    "required": false,
+    "enabled": true,
+    "size": 105382,
+    "sha256": ""
+  },
+  {
+    "id": "iris",
+    "name": "iris-1.7.2+mc1.20.6.jar",
+    "title": "Iris Shaders",
+    "required": false,
+    "enabled": false,
+    "size": 2711922,
+    "sha256": ""
+  },
+  {
+    "id": "krypton",
+    "name": "krypton-0.2.7.jar",
+    "title": "Krypton",
+    "required": false,
+    "enabled": true,
+    "size": 163822,
+    "sha256": ""
+  },
+  {
+    "id": "modmenu",
+    "name": "modmenu-10.0.0.jar",
+    "title": "Mod Menu",
+    "required": true,
+    "enabled": true,
+    "size": 966865,
+    "sha256": ""
+  },
+  {
+    "id": "moreculling",
+    "name": "moreculling-1.20.5-0.25.0.jar",
+    "title": "More Culling",
+    "required": false,
+    "enabled": true,
+    "size": 256188,
+    "sha256": ""
+  },
+  {
+    "id": "skinlayers3d",
+    "name": "skinlayers3d-fabric-1.11.1-mc1.20.6.jar",
+    "title": "3D Skin Layers",
+    "required": false,
+    "enabled": true,
+    "size": 1971142,
+    "sha256": ""
+  },
+  {
+    "id": "sodium",
+    "name": "sodium-fabric-0.5.11+mc1.20.6.jar",
+    "title": "Sodium",
+    "required": true,
+    "enabled": true,
+    "size": 990829,
+    "sha256": ""
+  },
+  {
+    "id": "SoupAPI",
+    "name": "SoupAPI-0.3.4-1.20.6.jar",
+    "title": "SoupAPI",
+    "required": false,
+    "enabled": true,
+    "size": 967074,
+    "sha256": ""
+  },
+  {
+    "id": "voicechat",
+    "name": "voicechat-fabric-1.20.6-2.5.22.jar",
+    "title": "Simple Voice Chat",
+    "required": false,
+    "enabled": true,
+    "size": 6570773,
+    "sha256": ""
+  },
+  {
+    "id": "xaeros-minimap",
+    "name": "Xaeros_Minimap_FP24.2.0_Fabric_1.20.6.jar",
+    "title": "Xaero Minimap",
+    "required": false,
+    "enabled": true,
+    "size": 1501046,
+    "sha256": ""
+  },
+  {
+    "id": "XanAuth",
+    "name": "XanAuth.jar",
+    "title": "XanAuth",
+    "required": true,
+    "enabled": true,
+    "size": 7488,
+    "sha256": ""
+  }
+]
