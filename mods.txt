@@ -86,7 +86,7 @@
     "title": "ReplayMod",
     "required": true,
     "enabled": true,
-    "size": 7488,
+    "size": 14819890,
     "sha256": ""
   }
   {
