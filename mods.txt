@@ -81,6 +81,15 @@
     "sha256": ""
   },
   {
+    "id": "replaymod",
+    "name": "replaymod-1.20.6-2.6.23.jar",
+    "title": "ReplayMod",
+    "required": true,
+    "enabled": true,
+    "size": 7488,
+    "sha256": ""
+  }
+  {
     "id": "skinlayers3d",
     "name": "skinlayers3d-fabric-1.11.1-mc1.20.6.jar",
     "title": "3D Skin Layers",
@@ -134,4 +143,5 @@
     "size": 7488,
     "sha256": ""
   }
+
 ]
