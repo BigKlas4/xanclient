@@ -88,7 +88,7 @@
     "enabled": true,
     "size": 14819890,
     "sha256": ""
-  }
+  },
   {
     "id": "skinlayers3d",
     "name": "skinlayers3d-fabric-1.11.1-mc1.20.6.jar",
