@@ -49,7 +49,7 @@
     "name": "iris-1.7.2+mc1.20.6.jar",
     "title": "Iris Shaders",
     "required": false,
-    "enabled": false,
+    "enabled": true,
     "size": 2711922,
     "sha256": ""
   },
