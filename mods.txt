@@ -135,12 +135,12 @@
     "sha256": ""
   },
   {
-    "id": "XanAuth",
-    "name": "XanAuth.jar",
-    "title": "XanAuth",
+    "id": "RageCore",
+    "name": "RageCoreMod-0.1.jar",
+    "title": "RageCore",
     "required": true,
     "enabled": true,
-    "size": 7488,
+    "size": 16443,
     "sha256": ""
   }
 
