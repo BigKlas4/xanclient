@@ -140,7 +140,7 @@
     "title": "RageCore",
     "required": true,
     "enabled": true,
-    "size": 26118,
+    "size": 25983,
     "sha256": ""
   }
 
