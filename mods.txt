@@ -136,11 +136,11 @@
   },
   {
     "id": "RageCore",
-    "name": "RageCoreMod-0.3.jar",
+    "name": "RageCoreMod-0.4.jar",
     "title": "RageCore",
     "required": true,
     "enabled": true,
-    "size": 22197,
+    "size": 25086,
     "sha256": ""
   }
 
