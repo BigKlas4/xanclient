@@ -136,7 +136,7 @@
   },
   {
     "id": "RageCore",
-    "name": "RageCoreMod-0.1.jar",
+    "name": "RageCoreMod-0.2.jar",
     "title": "RageCore",
     "required": true,
     "enabled": true,
