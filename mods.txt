@@ -108,15 +108,6 @@
     "sha256": ""
   },
   {
-    "id": "SoupAPI",
-    "name": "SoupAPI-0.3.4-1.20.6.jar",
-    "title": "SoupAPI",
-    "required": false,
-    "enabled": true,
-    "size": 967074,
-    "sha256": ""
-  },
-  {
     "id": "voicechat",
     "name": "voicechat-fabric-1.20.6-2.5.22.jar",
     "title": "Simple Voice Chat",
