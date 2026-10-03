@@ -1,138 +1,128 @@
 [
   {
-    "id": "cloth-config",
+    "id": "BadOptimizations-2.4.1-1.20.5-20.6",
+    "name": "BadOptimizations-2.4.1-1.20.5-20.6.jar",
+    "title": "BadOptimizations-2.4.1-1.20.5-20.6",
+    "required": true,
+    "enabled": true,
+    "size": 283558,
+    "sha256": "ea64aecb65e4b6172cca6b8b7bc3fdf5dd6a21ac49d554f67ac2c3fc06bccd61"
+  },
+  {
+    "id": "ImmediatelyFast-Fabric-1.3.0+1.20.6",
+    "name": "ImmediatelyFast-Fabric-1.3.0+1.20.6.jar",
+    "title": "ImmediatelyFast-Fabric-1.3.0+1.20.6",
+    "required": true,
+    "enabled": true,
+    "size": 247953,
+    "sha256": "c74bc5bcf5272e014d27899fa475272a38f393ad55a35b5fd4df8419d32b4fb3"
+  },
+  {
+    "id": "RageCoreMod-0.1",
+    "name": "RageCoreMod-0.1.jar",
+    "title": "RageCoreMod-0.1",
+    "required": true,
+    "enabled": true,
+    "size": 603435,
+    "sha256": "650db631eb0983c4e8e8aa95836853b38347cd1762a44be5f3f98ddebcd1f99a"
+  },
+  {
+    "id": "cloth-config-14.0.139-fabric",
     "name": "cloth-config-14.0.139-fabric.jar",
-    "title": "Cloth Config",
+    "title": "cloth-config-14.0.139-fabric",
     "required": true,
     "enabled": true,
     "size": 1157222,
-    "sha256": ""
+    "sha256": "09904a525735a1c51feda35660b05aa2b0da2a327c4e0f17e66ecf0d558c071b"
   },
   {
-    "id": "fabric-api",
+    "id": "enhancedblockentities-0.10.1+1.20.6",
+    "name": "enhancedblockentities-0.10.1+1.20.6.jar",
+    "title": "enhancedblockentities-0.10.1+1.20.6",
+    "required": true,
+    "enabled": true,
+    "size": 201922,
+    "sha256": "75f47c6fda57b90c27cb2f2006f5dd3a65126efbe9b8311db483c164a045be89"
+  },
+  {
+    "id": "entityculling-fabric-1.11.2-mc1.20.6",
+    "name": "entityculling-fabric-1.11.2-mc1.20.6.jar",
+    "title": "entityculling-fabric-1.11.2-mc1.20.6",
+    "required": true,
+    "enabled": true,
+    "size": 1519406,
+    "sha256": "42465b060e23f54f53df163b17c1eda4f9e383387f41443fbae89e52e085c824"
+  },
+  {
+    "id": "fabric-api-0.100.8+1.20.6",
     "name": "fabric-api-0.100.8+1.20.6.jar",
-    "title": "Fabric API",
+    "title": "fabric-api-0.100.8+1.20.6",
     "required": true,
     "enabled": true,
     "size": 2249380,
-    "sha256": ""
+    "sha256": "ef0da4eca8aa731469dde63dbee451bc6b0d5814bc140c747a7029b9bb2a8cef"
   },
   {
-    "id": "entityculling",
-    "name": "entityculling-fabric-1.10.2-mc1.20.6.jar",
-    "title": "Entity Culling",
-    "required": false,
-    "enabled": true,
-    "size": 1593051,
-    "sha256": ""
-  },
-  {
-    "id": "immediatelyfast",
-    "name": "ImmediatelyFast-Fabric-1.3.0+1.20.6.jar",
-    "title": "ImmediatelyFast",
-    "required": false,
-    "enabled": true,
-    "size": 247953,
-    "sha256": ""
-  },
-  {
-    "id": "indium",
-    "name": "indium-1.0.36+mc1.20.1.jar",
-    "title": "Indium",
-    "required": false,
-    "enabled": true,
-    "size": 105382,
-    "sha256": ""
-  },
-  {
-    "id": "iris",
-    "name": "iris-1.7.2+mc1.20.6.jar",
-    "title": "Iris Shaders",
-    "required": false,
-    "enabled": true,
-    "size": 2711922,
-    "sha256": ""
-  },
-  {
-    "id": "krypton",
-    "name": "krypton-0.2.7.jar",
-    "title": "Krypton",
-    "required": false,
-    "enabled": true,
-    "size": 163822,
-    "sha256": ""
-  },
-  {
-    "id": "modmenu",
-    "name": "modmenu-10.0.0.jar",
-    "title": "Mod Menu",
+    "id": "fast-ip-ping-v1.0.12-mc1.20.6-fabric",
+    "name": "fast-ip-ping-v1.0.12-mc1.20.6-fabric.jar",
+    "title": "fast-ip-ping-v1.0.12-mc1.20.6-fabric",
     "required": true,
     "enabled": true,
-    "size": 966865,
-    "sha256": ""
+    "size": 10203,
+    "sha256": "68f1035b4211dec192436b6447f99601665e43c4a69b16597f449aea77a0fae5"
   },
   {
-    "id": "moreculling",
+    "id": "ferritecore-6.1.1-fabric",
+    "name": "ferritecore-6.1.1-fabric.jar",
+    "title": "ferritecore-6.1.1-fabric",
+    "required": true,
+    "enabled": true,
+    "size": 118182,
+    "sha256": "d7333d787da22db0789fe6fc6ea868449b892e68da474809c97f111a9c9e96b6"
+  },
+  {
+    "id": "krypton-0.2.7",
+    "name": "krypton-0.2.7.jar",
+    "title": "krypton-0.2.7",
+    "required": true,
+    "enabled": true,
+    "size": 163822,
+    "sha256": "7d1c770aa9d882cae8fe13d46888049b30176098af8943ce9cd7d4ce897a9510"
+  },
+  {
+    "id": "lithium-fabric-mc1.20.6-0.12.5",
+    "name": "lithium-fabric-mc1.20.6-0.12.5.jar",
+    "title": "lithium-fabric-mc1.20.6-0.12.5",
+    "required": true,
+    "enabled": true,
+    "size": 684742,
+    "sha256": "c9013317fb46674f9065f35f5d5d1756187738fa8014d352ed4f25c3fc6963fc"
+  },
+  {
+    "id": "modernfix-fabric-5.18.0+mc1.20.6",
+    "name": "modernfix-fabric-5.18.0+mc1.20.6.jar",
+    "title": "modernfix-fabric-5.18.0+mc1.20.6",
+    "required": true,
+    "enabled": true,
+    "size": 456037,
+    "sha256": "ff6d3a526aa0e14e8ef4a1272770193a665098979bb2b1a26dbc15083ee0a59c"
+  },
+  {
+    "id": "moreculling-1.20.5-0.25.0",
     "name": "moreculling-1.20.5-0.25.0.jar",
-    "title": "More Culling",
-    "required": false,
+    "title": "moreculling-1.20.5-0.25.0",
+    "required": true,
     "enabled": true,
     "size": 256188,
-    "sha256": ""
+    "sha256": "168956bcd3f0b50cfc7b751f86c21888e75c0caee49c06f2e955224062ad7681"
   },
   {
-    "id": "replaymod",
-    "name": "replaymod-1.20.6-2.6.23.jar",
-    "title": "ReplayMod",
-    "required": false,
-    "enabled": true,
-    "size": 14819890,
-    "sha256": ""
-  },
-  {
-    "id": "skinlayers3d",
-    "name": "skinlayers3d-fabric-1.11.1-mc1.20.6.jar",
-    "title": "3D Skin Layers",
-    "required": false,
-    "enabled": true,
-    "size": 1971142,
-    "sha256": ""
-  },
-  {
-    "id": "sodium",
+    "id": "sodium-fabric-0.5.11+mc1.20.6",
     "name": "sodium-fabric-0.5.11+mc1.20.6.jar",
-    "title": "Sodium",
+    "title": "sodium-fabric-0.5.11+mc1.20.6",
     "required": true,
     "enabled": true,
     "size": 990829,
-    "sha256": ""
-  },
-  {
-    "id": "voicechat",
-    "name": "voicechat-fabric-1.20.6-2.5.22.jar",
-    "title": "Simple Voice Chat",
-    "required": false,
-    "enabled": true,
-    "size": 6570773,
-    "sha256": ""
-  },
-  {
-    "id": "xaeros-minimap",
-    "name": "Xaeros_Minimap_FP24.2.0_Fabric_1.20.6.jar",
-    "title": "Xaero Minimap",
-    "required": false,
-    "enabled": true,
-    "size": 1501046,
-    "sha256": ""
-  },
-  {
-    "id": "RageCore",
-    "name": "RageCoreMod-0.1.jar",
-    "title": "RageCore",
-    "required": true,
-    "enabled": true,
-    "size": 544539,
-    "sha256": ""
+    "sha256": "6f05cf6944dfd98ac8c4a3daaa53e2fa58d3df84e4ee673bcd3bf64fddb592a4"
   }
-
 ]
