@@ -81,6 +81,15 @@
     "sha256": "d7333d787da22db0789fe6fc6ea868449b892e68da474809c97f111a9c9e96b6"
   },
   {
+    "id": "iris-1.7.2+mc1.20.6",
+    "name": "iris-1.7.2+mc1.20.6.jar",
+    "title": "iris-1.7.2+mc1.20.6",
+    "required": true,
+    "enabled": true,
+    "size": 2711922,
+    "sha256": "87d1c24c581ef6c221e9ceba700db806d2ae5f309e5ae152065e6434efedd1ec"
+  },
+  {
     "id": "krypton-0.2.7",
     "name": "krypton-0.2.7.jar",
     "title": "krypton-0.2.7",
@@ -115,6 +124,24 @@
     "enabled": true,
     "size": 256188,
     "sha256": "168956bcd3f0b50cfc7b751f86c21888e75c0caee49c06f2e955224062ad7681"
+  },
+  {
+    "id": "replaymod-1.20.6-2.6.23",
+    "name": "replaymod-1.20.6-2.6.23.jar",
+    "title": "replaymod-1.20.6-2.6.23",
+    "required": true,
+    "enabled": true,
+    "size": 14819890,
+    "sha256": "fff6df7950156fdb67ec77bd2c6b2d3c67b918b90f93eebecfed92a0ce48f933"
+  },
+  {
+    "id": "sodium-extra-0.5.6+mc1.20.6",
+    "name": "sodium-extra-0.5.6+mc1.20.6.jar",
+    "title": "sodium-extra-0.5.6+mc1.20.6",
+    "required": true,
+    "enabled": true,
+    "size": 375407,
+    "sha256": "e7dcde810880019478f6b78f31ccd9781cb3728ca3a1c19c4243fae2604614c7"
   },
   {
     "id": "sodium-fabric-0.5.11+mc1.20.6",
