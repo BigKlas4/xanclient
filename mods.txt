@@ -23,8 +23,8 @@
     "title": "RageCoreMod-0.1",
     "required": true,
     "enabled": true,
-    "size": 2289430,
-    "sha256": "ec37e5f6437adf570c44fd2e351a4ef2b549e01c23799a13514f1acaf8c29156"
+    "size": 2322456,
+    "sha256": "c8c4668772fafe0d4f84259b83ec57a7b11296fa13a4a24bbc27cde926b19b69"
   },
   {
     "id": "cloth-config-14.0.139-fabric",
