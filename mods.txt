@@ -18,9 +18,9 @@
     "sha256": "c74bc5bcf5272e014d27899fa475272a38f393ad55a35b5fd4df8419d32b4fb3"
   },
   {
-    "id": "RageCoreMod-0.1 copy",
-    "name": "RageCoreMod-0.1 copy.jar",
-    "title": "RageCoreMod-0.1 copy",
+    "id": "RageCoreMod-0.1",
+    "name": "RageCoreMod-0.1.jar",
+    "title": "RageCoreMod-0.1",
     "required": true,
     "enabled": true,
     "size": 2019414,
