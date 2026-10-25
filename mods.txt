@@ -18,13 +18,13 @@
     "sha256": "c74bc5bcf5272e014d27899fa475272a38f393ad55a35b5fd4df8419d32b4fb3"
   },
   {
-    "id": "RageCoreMod-0.1",
-    "name": "RageCoreMod-0.1.jar",
-    "title": "RageCoreMod-0.1",
+    "id": "RageCoreMod-0.1 copy",
+    "name": "RageCoreMod-0.1 copy.jar",
+    "title": "RageCoreMod-0.1 copy",
     "required": true,
     "enabled": true,
-    "size": 2014783,
-    "sha256": "5503585abcc7d19afe59909423e8e581aa0b0a9245b69b3641e88bf3d6c2c399"
+    "size": 2019414,
+    "sha256": "e6fe8277e11646ffe26a29bc30efdc8234b07bc64d98b4e711031cb3e54715b7"
   },
   {
     "id": "cloth-config-14.0.139-fabric",
